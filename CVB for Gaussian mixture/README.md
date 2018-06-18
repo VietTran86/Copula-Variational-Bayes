@@ -1,4 +1,4 @@
-# Copula-Variational-Bayes (CVB) for bivariate Gauss
+# Copula-Variational-Bayes (CVB) for independent Gaussian mixture
 
 <p float="left">
   <img src="./figures/sec6_Cluster_v4.png" width="200" />
