@@ -1,7 +1,6 @@
 # Copula Variational Bayes inference via information geometry
 
   <img src="./intro/arxiv_abstract.png" width="800" />
-  <img src="./intro/CVB vs neural.png" width="800" /> 
 
 CVB for Gaussian mixture: 
 
