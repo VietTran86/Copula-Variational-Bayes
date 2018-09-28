@@ -4,6 +4,8 @@ It took me nearly 10 years to write this paper. This is the generalization of me
 
 I honestly believe Bayes (i.e. causal) network is the next generalization of current NeuralNet. Unlike NeuralNet, there is no overfitting (or, the least overfitting) in BayesNet.
 
+P.S: "BayesNet vs NeuralNet" is like "Human's vs Animal's intelligence", as explained by UCLA's gurus (Judea Pearls and others) here: https://dl.acm.org/citation.cfm?id=3281635.3271625
+
 
   <img src="./intro/arxiv_abstract.png" width="800" />
   
