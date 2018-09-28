@@ -1,6 +1,6 @@
 # Copula Variational Bayes inference via information geometry
 
-It took me nearly 10 years to write this paper. This is the generalization of Varitional inference (VB), EM algorithm, k-means, iterative mode plug-in, etc. 
+It took me nearly 10 years to write this paper. This is the generalization of mean-field approximations like Varitional inference (VB), EM algorithm, k-means, iterative mode plug-in, etc. (via Pythagorean form of KL divergence)
 
 I honestly believe Bayes (i.e. causal) network is the next generalization of current NeuralNet. Unlike NeuralNet, there is no overfitting (or, the least overfitting) in BayesNet.
 
@@ -30,3 +30,5 @@ CVB for bivariate Gauss:
 # Reference:
 
 Viet Hung Tran, "Copula Variational Bayes inference via information geometry", IEEE Trans. on information theory 2018 - https://arxiv.org/abs/1803.10998
+
+https://en.wikipedia.org/wiki/Variational_Bayesian_methods
