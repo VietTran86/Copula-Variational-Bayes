@@ -9,7 +9,7 @@ P.S: "BayesNet vs NeuralNet" is like "Human's vs Animal's intelligence", as expl
 
   <img src="./intro/arxiv_abstract.png" width="800" />
   
-  <img src="./intro/slide.png" width="800" />
+  <img src="./intro/slide2.png" width="800" />
 
 CVB for Gaussian mixture: 
 
