@@ -2,10 +2,9 @@
 
 It took me nearly 10 years to write this paper. This is the generalization of mean-field approximations like Varitional inference (VB), EM algorithm, k-means, iterative mode plug-in, etc. (via Pythagorean form of KL divergence)
 
-I honestly believe Bayes (i.e. causal) network is the next generalization of current NeuralNet. Unlike NeuralNet, there is no overfitting (or, the least overfitting) in BayesNet.
+The potential application of this CVB algorithm is vast. The CVB can estimate the parameters for many popular machine learning algorithms and high-dimensional problems (e.g. VB, EM, SVM, NeuralNets, Gaussian process, latent mixture models, density estimation, ICA, matrix factorization, dimension reduction, reinforecement learning, etc. to name just a few).
 
-P.S: "BayesNet vs NeuralNet" is like "Human's vs Animal's intelligence", as explained by UCLA's gurus (Prof. Judea Pearl and others) here: https://dl.acm.org/citation.cfm?id=3281635.3271625
-
+In this paper, CVB was shown to improve the accuracy of VB, EM, etc. significantly for Gaussian mixtures, as shown below.
 
   <img src="./intro/arxiv_abstract.png" width="800" />
   
