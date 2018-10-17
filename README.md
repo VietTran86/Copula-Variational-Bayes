@@ -4,7 +4,7 @@ It took me nearly 10 years to write this paper. This is the generalization of me
 
 The potential application of this CVB algorithm is vast. The CVB can estimate the parameters for many popular machine learning algorithms and high-dimensional problems (e.g. VB, EM, SVM, NeuralNets, Gaussian process, latent mixture models, density estimation, ICA, matrix factorization, dimension reduction, reinforecement learning, etc. to name just a few).
 
-In this paper, CVB was shown to improve the accuracy of VB, EM, etc. significantly for Gaussian mixtures, as shown below.
+In this paper, CVB was shown to improve the accuracy of VB, EM and k-means significantly for Gaussian mixtures, as shown below.
 
   <img src="./intro/arxiv_abstract.png" width="800" />
   
