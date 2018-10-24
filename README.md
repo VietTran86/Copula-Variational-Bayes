@@ -21,8 +21,6 @@ Finally, the key advantage of CVB method is that CVB can return an optimal mixtu
   <img src="./intro/VAE_vs_CVB_v0.png" width="800" />
 
   <img src="./intro/Fig2_pythagore.png" width="400" />
-  
-# Copula Variational Bayes paper
 
   <img src="./intro/arxiv_abstract.png" width="800" />
   
