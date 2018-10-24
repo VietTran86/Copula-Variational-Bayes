@@ -18,7 +18,7 @@ Also, since CVB is a free-form approximation, CVB's form can automatically adapt
 
 Finally, the key advantage of CVB method is that CVB can return an optimal mixture of approximated distributions. By this way, we can decompose the original network into a mixture of approximated networks, whose CVB's optimal weights are simply proportional to the evidence lower bound (ELBO) of each of approximated networks. 
 
-  <img src="./intro/VAE_vs_CVB_v0.png" width="800" />
+  <img src="./intro/VAE_vs_CVB_0.png" width="800" />
 
   <img src="./intro/Fig2_pythagore.png" width="400" />
 
