@@ -4,13 +4,13 @@ This is the generalization of mean-field approximations like Varitional inferenc
 
 The potential application of this CVB algorithm is vast. The CVB can estimate the parameters for many popular machine learning algorithms and high-dimensional problems (e.g. VB, EM, SVM, NeuralNets, Gaussian process, latent mixture models, density estimation, ICA, matrix factorization, dimension reduction, reinforecement learning, etc. to name just a few).
 
-In my paper [1], CVB was shown to improve the accuracy of VB, EM and k-means significantly for Gaussian mixtures.
+In this paper [1], CVB was shown to improve the accuracy of VB, EM and k-means significantly for Gaussian mixtures.
 
 # Copula Variational Bayes algorithm for Variational Autoencoder (VAE)
 
 Variational Autoencoders [2] is a popular algorithm for estimating weights in deep learning. Nonetheless, the VAE solution was only found via stochastic gradient descent (SGD) method. 
 
-Instead of using gradient decent, let us show that CVB algorithm can be applied to VAE problem and yield iterative closed-form solution directly. 
+Instead of using gradient decent, we can also show that CVB algorithm can be applied to VAE problem and yield iterative closed-form solution directly. 
 
 Since CVB is a relaxed form of mean-field approximation, CVB uses the same tractable iterative scheme, without being constrained by independent form like Variational Bayes method. 
 
