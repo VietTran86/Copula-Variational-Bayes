@@ -23,8 +23,6 @@ Finally, the key advantage of CVB method is that CVB can return an optimal mixtu
   <img src="./intro/Fig2_pythagore.png" width="400" />
 
   <img src="./intro/arxiv_abstract.png" width="800" />
-  
-  <img src="./intro/CVB_neural_v2.png" width="800" />
 
 CVB for Gaussian mixture: 
 
